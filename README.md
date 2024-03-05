@@ -1,3 +1,5 @@
+## This app came from reddit, lol
+
 ## Setup
 
 ### Requisites
