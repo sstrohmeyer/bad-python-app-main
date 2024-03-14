@@ -1,3 +1,5 @@
+## This app came from reddit, lol
+
 ## Setup
 
 ### Requisites
@@ -51,4 +53,4 @@ Host: localhost:5000
 
 Cookie: api_key=myapisecret
 
-...
+.......
